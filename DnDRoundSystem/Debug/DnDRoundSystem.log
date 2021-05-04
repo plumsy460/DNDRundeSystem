@@ -1,0 +1,14 @@
+﻿  Buffer.cpp
+  ColorText.cpp
+  CreateUnit.cpp
+  DnDRoundSystem.cpp
+  Effect.cpp
+  EffectList.cpp
+  ModifyHP.cpp
+  NewRound.cpp
+  Player.cpp
+  RemoveBuffProcess.cpp
+  Unit.cpp
+  UnitList.cpp
+  Generating Code...
+  DnDRoundSystem.vcxproj -> C:\Users\asmun\source\repos\DnDRoundSystem\Debug\DnDRoundSystem.exe
